@@ -11,7 +11,7 @@ so the meaning of this Repo is to define a Backbone for the new Android DeGoogle
 </p>
 <div align="center">
 
-:gb:Android Bones  :it:Ossa di Android
+:gb: Bones of Android  :it: Ossa di Android
 
 </div>
 
@@ -37,13 +37,13 @@ so the meaning of this Repo is to define a Backbone for the new Android DeGoogle
 ---
 - Graphene OS first Step
 - Apps
-- - Repositories
-- - Standard apps
-- - Selfhosting apps
-- - Tools apps
-- - Media apps
-- - Social Media apps
-- - Streaming apps
+ - Repositories
+ - Standard apps
+ - Selfhosting apps
+ - Tools apps
+ - Media apps
+ - Social Media apps
+ - Streaming apps
 - More resources
 
 ## Graphene OS first Step
@@ -54,7 +54,6 @@ sd
 fsd  
 f
 
----
 ## Apps
 ---
 ### Repositories
